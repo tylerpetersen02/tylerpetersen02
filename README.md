@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Tyler's Github](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/github-readme1.png)]()
+
+
+About me...
+
+Feel free to reach out on LinkedIn💬 or Instagram💬!
+
 
 <!--
 **tylerpetersen02/tylerpetersen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
