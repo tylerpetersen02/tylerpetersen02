@@ -1,4 +1,4 @@
-[![Tyler's Github](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/readme_img1.png)]()
+[![Tyler's Github](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/github_banner.png)]()
 
 
 <span>
