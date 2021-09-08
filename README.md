@@ -2,7 +2,7 @@
 
 [![ReadMe Banner](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/github_readme.png)]()
 
-
+<br>
 [![Technologies](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Technologies_img.png)]()
 <br>
 <br>
@@ -27,22 +27,32 @@
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="90px" height="25px">
 
-
+<br>
 [![About me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Aboutme_img.png)]()
 
-<p><font size="3">Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></font></p>
+<p>Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></p>
 
+<br>
 [![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png)]()
 
-## **_Blue Ocean_**
+### **_Gamut_**
+<p>A mobile-first social media experience tailored to users' interests based on previous interactions with the app.</p>
+<a href="https://github.com/Team-Burberry/gamut#readme" target="_blank"><p>Check out Gamut here!</p></a>
 
-## **_Moodvies_**
+### **_Moodvies_**
+<p>Full stack, dynamic mock streaming platform for movies</p>
+<a href="https://github.com/tylerpetersen02/hr-rfp54-mvp" target="_blank"><p>Check out Moodvies here!</p></a>
 
-## **_Atelier_**
+### **_Atelier_**
+<p>Lightweight, scalable microservice serving a growing ecommerce front-end</p>
+<a href="https://github.com/sdc04-kahlo/Reviews#readme" target="_blank"><p>Check out Catwalk here!</p></a>
 
-## **_Catwalk_**
+### **_Catwalk_**
+<p>E-Commerce application built with functional user interaction. Deployed on AWS and fully optimized for speed, accessibility, SEO, and best practices.</p>
+<a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank"><p>Check out Catwalk here!</p></a>
 
+<br>
 [![Contact me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Connect_img.png)]()
 
-**<p><font size="3">Feel free to reach out on LinkedIn! 💬</font></p>**
+**<p>Feel free to reach out on LinkedIn! 💬</p>**
 <a href="https://www.linkedin.com/in/tyler-petersen02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" height="25px"></a>
