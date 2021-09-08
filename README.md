@@ -30,26 +30,19 @@
 
 [![About me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Aboutme_img.png)]()
 
-<p>Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></p>
+<p><font size="3">Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></font></p>
 
 [![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png)]()
 
+## **_Blue Ocean_**
+
+## **_Moodvies_**
+
+## **_Atelier_**
+
+## **_Catwalk_**
+
 [![Contact me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Connect_img.png)]()
 
-<p>Feel free to reach out on LinkedIn! 💬</p>
+**<p><font size="3">Feel free to reach out on LinkedIn! 💬</font></p>**
 <a href="https://www.linkedin.com/in/tyler-petersen02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" height="25px"></a>
-
-<!--
-**tylerpetersen02/tylerpetersen02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
