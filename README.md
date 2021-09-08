@@ -5,8 +5,9 @@
 <br>
 
 <img src="/lib/Technologies_img.png">
+
 <br>
-<br>
+
 <span>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="90px" height="25px">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="90px" height="25px">
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="90px" height="25px">
 
+<br>
 <br>
 
 <img src="/lib/Aboutme_img.png">
