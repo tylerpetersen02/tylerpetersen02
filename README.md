@@ -61,6 +61,8 @@
 <p>E-Commerce app with functional user interaction. Deployed on AWS and optimized for speed, accessibility, SEO, and best practices.</p>
 <a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank">Check out Catwalk here! :arrow_right:</a>
 
+[![Check out Catwalk here! :arrow_right:](https://github.com/HouseOfAres/frontend-capstone#readme)]{:target="_blank"}
+
 <br>
 
 [![Contact me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Connect_img.png)]()
