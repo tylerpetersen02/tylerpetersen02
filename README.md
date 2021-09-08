@@ -41,25 +41,25 @@
 
 ### **_Gamut_**
 <p>A mobile-first social media experience tailored to users' interests based on previous interactions with the app.</p>
-<a href="https://github.com/Team-Burberry/gamut#readme" target="_blank"><p>Check out Gamut here! :arrow_right:</p></a>
+<a href="https://github.com/Team-Burberry/gamut#readme" target="_blank">Check out Gamut here! :arrow_right:</a>
 
 <hr>
 
 ### **_Moodvies_**
 <p>Full stack, dynamic mock streaming platform for movies</p>
-<a href="https://github.com/tylerpetersen02/hr-rfp54-mvp" target="_blank"><p>Check out Moodvies here! :arrow_right:</p></a>
+<a href="https://github.com/tylerpetersen02/hr-rfp54-mvp" target="_blank">Check out Moodvies here! :arrow_right:</a>
 
 <hr>
 
 ### **_Atelier_**
 <p>Lightweight, scalable microservice serving a growing ecommerce front-end</p>
-<a href="https://github.com/sdc04-kahlo/Reviews#readme" target="_blank"><p>Check out Catwalk here! :arrow_right:</p></a>
+<a href="https://github.com/sdc04-kahlo/Reviews#readme" target="_blank">Check out Catwalk here! :arrow_right:</a>
 
 <hr>
 
 ### **_Catwalk_**
 <p>E-Commerce app with functional user interaction. Deployed on AWS and optimized for speed, accessibility, SEO, and best practices.</p>
-<a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank"><p>Check out Catwalk here! :arrow_right:</p></a>
+<a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank">Check out Catwalk here! :arrow_right:</a>
 
 <br>
 
