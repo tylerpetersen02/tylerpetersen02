@@ -39,19 +39,19 @@
 
 [![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png)]()
 
-### **_Gamut_**
+## **_Gamut_**
 <p>A mobile-first social media experience tailored to users' interests based on previous interactions with the app.</p>
 <a href="https://github.com/Team-Burberry/gamut#readme" target="_blank"><p>Check out Gamut here!</p></a>
 
-### **_Moodvies_**
+## **_Moodvies_**
 <p>Full stack, dynamic mock streaming platform for movies</p>
 <a href="https://github.com/tylerpetersen02/hr-rfp54-mvp" target="_blank"><p>Check out Moodvies here!</p></a>
 
-### **_Atelier_**
+## **_Atelier_**
 <p>Lightweight, scalable microservice serving a growing ecommerce front-end</p>
 <a href="https://github.com/sdc04-kahlo/Reviews#readme" target="_blank"><p>Check out Catwalk here!</p></a>
 
-### **_Catwalk_**
+## **_Catwalk_**
 <p>E-Commerce application built with functional user interaction. Deployed on AWS and fully optimized for speed, accessibility, SEO, and best practices.</p>
 <a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank"><p>Check out Catwalk here!</p></a>
 
