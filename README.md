@@ -74,5 +74,5 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tylerpetersen02&show_icons=true&count_private=true&theme=material-palenight" />
+<img src="https://github-readme-stats.vercel.app/api?username=tylerpetersen02&show_icons=true&count_private=true&theme=github_dark" />
 
