@@ -37,7 +37,7 @@
 
 <br>
 
-[![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png)]()
+<img src="https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png">
 
 ### **_Gamut_**
 <p>A mobile-first social media experience tailored to users' interests based on previous interactions with the app.</p>
@@ -74,5 +74,5 @@
 
 <br>
 
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=tylerpetersen02&show_icons=true&count_private=true&theme=dracula" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=tylerpetersen02&show_icons=true&count_private=true&theme=dracula" />
 
