@@ -60,10 +60,10 @@
 
 <hr>
 
-### **_Catwalk_**
+### **_Ares & Co._**
 <p>E-Commerce app with functional user interaction. Deployed on AWS and optimized for speed, accessibility, SEO, and best practices.</p>
 
-[Check out Catwalk here!](https://github.com/HouseOfAres/frontend-capstone#readme) :arrow_right:
+[Check out Ares & Co. here!](https://github.com/HouseOfAres/frontend-capstone#readme) :arrow_right:
 
 <br>
 
