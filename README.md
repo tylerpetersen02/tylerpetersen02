@@ -17,23 +17,23 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" width="90px" height="25px">
- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="90px" height="25px">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" width="90px" height="25px">
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="90px" height="25px">
-  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" width="90px" height="25px">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="90px" height="25px">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" width="90px" height="25px">
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
+<img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="90px" height="25px">
 
 <br>
 
 [![About me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Aboutme_img.png)]()
 
-<p>Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></p>
+<p>Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm driven by curiosity and will never back down from a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></p>
 
 <br>
 
@@ -41,25 +41,25 @@
 
 ### **_Gamut_**
 <p>A mobile-first social media experience tailored to users' interests based on previous interactions with the app.</p>
-<a href="https://github.com/Team-Burberry/gamut#readme" target="_blank"><p>Check out Gamut here!</p></a>
+<a href="https://github.com/Team-Burberry/gamut#readme" target="_blank"><p>Check out Gamut here! :arrow_right:</p></a>
 
 <hr>
 
 ### **_Moodvies_**
 <p>Full stack, dynamic mock streaming platform for movies</p>
-<a href="https://github.com/tylerpetersen02/hr-rfp54-mvp" target="_blank"><p>Check out Moodvies here!</p></a>
+<a href="https://github.com/tylerpetersen02/hr-rfp54-mvp" target="_blank"><p>Check out Moodvies here! :arrow_right:</p></a>
 
 <hr>
 
 ### **_Atelier_**
 <p>Lightweight, scalable microservice serving a growing ecommerce front-end</p>
-<a href="https://github.com/sdc04-kahlo/Reviews#readme" target="_blank"><p>Check out Catwalk here!</p></a>
+<a href="https://github.com/sdc04-kahlo/Reviews#readme" target="_blank"><p>Check out Catwalk here! :arrow_right:</p></a>
 
 <hr>
 
 ### **_Catwalk_**
-<p>E-Commerce application built with functional user interaction. Deployed on AWS and fully optimized for speed, accessibility, SEO, and best practices.</p>
-<a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank"><p>Check out Catwalk here!</p></a>
+<p>E-Commerce app with functional user interaction. Deployed on AWS and optimized for speed, accessibility, SEO, and best practices.</p>
+<a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank"><p>Check out Catwalk here! :arrow_right:</p></a>
 
 <br>
 
