@@ -1,6 +1,6 @@
 
 
-[![Tyler's Github](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/github_banner.png)]()
+[![Tyler's Github](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/github_readme.png)]()
 
 [![Tyler's Github](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/aboutme.png)]()
 
