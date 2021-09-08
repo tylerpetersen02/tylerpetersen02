@@ -30,11 +30,13 @@
   <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" width="90px" height="25px">
 
 <br>
+
 [![About me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Aboutme_img.png)]()
 
 <p>Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></p>
 
 <br>
+
 [![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png)]()
 
 ### **_Gamut_**
@@ -54,6 +56,7 @@
 <a href="https://github.com/HouseOfAres/frontend-capstone#readme" target="_blank"><p>Check out Catwalk here!</p></a>
 
 <br>
+
 [![Contact me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Connect_img.png)]()
 
 **<p>Feel free to reach out on LinkedIn! 💬</p>**
