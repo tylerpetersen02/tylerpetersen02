@@ -37,7 +37,7 @@
 
 <br>
 
-<img src="https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png">
+<img src="/lib/Projects_img.png">
 
 ### **_Gamut_**
 <p>A mobile-first social media experience tailored to users' interests based on previous interactions with the app.</p>
