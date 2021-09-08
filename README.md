@@ -56,7 +56,7 @@
 ### **_Atelier_**
 <p>Lightweight, scalable microservice serving a growing ecommerce front-end</p>
 
-[Check out Catwalk here!](https://github.com/sdc04-kahlo/Reviews#readme) :arrow_right:
+[Check out Atelier here!](https://github.com/sdc04-kahlo/Reviews#readme) :arrow_right:
 
 <hr>
 
@@ -71,3 +71,9 @@
 
 **<p>Feel free to reach out on LinkedIn! 💬</p>**
 <a href="https://www.linkedin.com/in/tyler-petersen02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" height="25px"></a>
+
+<br>
+
+ <a href="https://github.com/tylerpetersen02/github-readme-stats">
+  <center><img src="https://github-readme-stats.vercel.app/api?username=tylerpetersen02&show_icons=true&count_private=true&theme=dracula" /></center>
+</a>
