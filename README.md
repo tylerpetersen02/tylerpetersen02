@@ -5,6 +5,7 @@
 
 [![Technologies](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Technologies_img.png)]()
 <br>
+<br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="90px" height="25px">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="90px" height="25px">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="90px" height="25px">
@@ -31,9 +32,9 @@
 
 <p>Hey there! My name is Tyler and I'm a full stack software engineer based in the Los Angeles area. I've been working with various code for about 3 years now and I'm constantly looking for the next tech I can get my hands. I'm always been driven by curiosity and love a good challenge. Play me in chess sometime! <span>:chess_pawn:<span></p>
 
-[![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects.png)]()
+[![Projects](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Projects_img.png)]()
 
-[![Contact me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Connect.png)]()
+[![Contact me](https://github.com/tylerpetersen02/tylerpetersen02/blob/main/lib/Connect_img.png)]()
 
 <p>Feel free to reach out on LinkedIn! 💬</p>
 <a href="https://www.linkedin.com/in/tyler-petersen02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" height="25px"></a>
