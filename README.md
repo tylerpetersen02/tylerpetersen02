@@ -49,7 +49,7 @@
 ### **_Moodvies_**
 <p>Full stack, dynamic mock streaming platform for movies</p>
 
-[Check out Moodvies here!](https://github.com/tylerpetersen02/hr-rfp54-mvp#readme) :arrow_right:
+[Check out Moodvies here!](https://github.com/tylerpetersen02/moodvies#readme) :arrow_right:
 
 <hr>
 
