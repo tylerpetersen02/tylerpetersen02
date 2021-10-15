@@ -65,6 +65,13 @@
 
 [Check out Ares & Co. here!](https://github.com/HouseOfAres/frontend-capstone#readme) :arrow_right:
 
+<hr>
+
+### **_Tic-Tac-Joe_**
+<p>A game of Tic-Tac-Toe versus a computer that adapts and calculates its moves based off of yours</p>
+
+[Check out Tic-Tac-Joe here!](https://github.com/tylerpetersen02/tic-tac-joe#readme) :arrow_right:
+
 <br>
 
 <img src="/lib/Connect_img.png">
